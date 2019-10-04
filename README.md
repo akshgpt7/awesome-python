@@ -1182,7 +1182,6 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
 * [toapi](https://github.com/gaojiuli/toapi) - Every web site provides APIs.
 * [webbrowser](https://docs.python.org/2/library/webbrowser.html) - A module to open URLs in interactive browser applications.
 
-
 ## Web Crawling
 
 *Libraries to automate web scraping.*
